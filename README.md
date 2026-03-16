@@ -19,5 +19,5 @@ It focuses on Object-Oriented Programming (OOP) in JavaScript to create a modula
 * **style.css:** Stylesheet for the clean layout, rounded containers, and high-contrast typography.
 * **script.js:** Core logic file containing the `QAItem` class and the DSA dataset.
 
-* ## How to Run
+## How to Run
 Download the source files. Make sure all the 3 files, index.html, script.js and style.css are in the same folder. Launch index.html in any browser. You will be able to see the Interactive Q&A Wepage.
